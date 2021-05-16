@@ -18,4 +18,4 @@ cv2.imshow("Original Picture", img)
 cv2.imshow("Playing Picture", imgFun)
 # Not working
 
-cv2.waitKey(0)
+cv2.waitKey(0)''
