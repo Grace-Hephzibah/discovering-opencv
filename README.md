@@ -32,6 +32,7 @@ Generally 2^8 = 256 bit resolution is used.
 - 0 is black 
 - 255 is white 
 - The rest are shades of gray
+
 Those images are called 8 bits or 256 levels.
 ## Coloured Images
 Coloured images have 3 channels. They are RGB. 

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d343856-483b-470c-9042-ac813e50c1c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 03/01_Resizing_Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 03/02_Cropping_Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/01_Create_Black_Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/02_Create_Coloured_Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/03_Create_Line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_Create_Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/05_Create_Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/06_Text_On_Images.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 02/08_Play_Ground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 02/08_Play_Ground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +34,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.02_Cropping_Image">
-    <configuration name="01_Resizing_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_Text_On_Images">
+    <configuration name="02_Create_Coloured_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +43,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/01_Resizing_Image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 04/02_Create_Coloured_Image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_Cropping_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_Create_Line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/02_Cropping_Image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 04/03_Create_Line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Play_Ground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_Create_Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 02/07_Play_Ground.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 04/04_Create_Rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_Play_Ground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Create_Circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 02/08_Play_Ground.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 04/05_Create_Circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chapter_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_Text_On_Images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 04/06_Text_On_Images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_Cropping_Image" />
-        <item itemvalue="Python.Chapter_03" />
-        <item itemvalue="Python.01_Resizing_Image" />
-        <item itemvalue="Python.08_Play_Ground" />
-        <item itemvalue="Python.07_Play_Ground" />
+        <item itemvalue="Python.06_Text_On_Images" />
+        <item itemvalue="Python.05_Create_Circle" />
+        <item itemvalue="Python.04_Create_Rectangle" />
+        <item itemvalue="Python.03_Create_Line" />
+        <item itemvalue="Python.02_Create_Coloured_Image" />
       </list>
     </recent_temporary>
   </component>

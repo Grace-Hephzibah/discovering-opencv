@@ -6,19 +6,18 @@ img = np.zeros( (512, 512, 3), np.uint8)
 
 
 # To color the whole image
-img[:] = (255, 0, 0)
-
-# To create line
-cv2.line(img, (0,0), (300,300), (0,255,0), 3)
+img[:] = (0, 255, 0)
 
 # To draw the rectangle
 cv2.rectangle(img, (0,0), (250,350), (0,0,255), 2)
+# img -> the sourece
+# (0,0) -> Starting Point
+# (300, 300) -> Ending Point
+# (0, 255, 0) -> Colour
+# 3 -> Thickness
 
-# To draw a circle
-cv2.circle(img, (400,50), 30, (255, 255, 0), 5)
-
-# Text on images
-cv2.putText(img, "OPENCV", (300,100), cv2.FONT_ITALIC, 1, (0,150,0), 1)
+# cv2.FILLED -> Colours the whole region
+# |--> Must be used at the Thickness Parameter
 
 cv2.imshow("Output Window", img)
 cv2.waitKey(0)
