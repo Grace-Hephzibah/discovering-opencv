@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d343856-483b-470c-9042-ac813e50c1c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 04/01_Create_Black_Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 04/02_Create_Coloured_Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 04/03_Create_Line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 04/04_Create_Rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 04/05_Create_Circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 04/06_Text_On_Images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9d343856-483b-470c-9042-ac813e50c1c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
