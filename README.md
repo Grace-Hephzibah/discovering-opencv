@@ -14,6 +14,11 @@
 - Chapter 08: Contour / Shape Detection
 - Chapter 09: Face Detection
 
+# Projects 
+- Project 1 :
+<a href = "https://github.com/Grace-Hephzibah/Virtual-Paint"> 
+Virtual Paint </a>
+  
 # Introduction to Images
 Consider a 2d-box of dimension (10 x 10). Draw equal 
 lines such that each interior square is (1 x 1). Now 
