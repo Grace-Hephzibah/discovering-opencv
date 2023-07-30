@@ -1,5 +1,5 @@
 # OpenCV-Python
- I am learning OpenCV in Python
+ This repository is a place where all the codes related to OpenCV is posted.
 
 # Topics
 - Introduction to Images
@@ -14,10 +14,18 @@
 - Chapter 08: Contour / Shape Detection
 - Chapter 09: Face Detection
 
-# Projects 
-- Project 1 :
-<a href = "https://github.com/Grace-Hephzibah/Virtual-Paint"> 
-Virtual Paint </a>
+# Installations 
+- Install Python 3.7.6 -> It works well with OPENCV
+- Install PyCharm -> A free comfortable IDE
+
+## Packages to install
+- opencv-python --> This is the OPENCV Package 
+- numpy --> Used in arrays to analyse the images
+
+## Imported as 
+- import cv2
+- import numpy as np
+
   
 # Introduction to Images
 Consider a 2d-box of dimension (10 x 10). Draw equal 
@@ -44,14 +52,4 @@ Coloured images have 3 channels. They are RGB.
 - RGB stands for Red Green Blue
 In OpenCV Convention, BGR term is used instead of RGB.
 
-# Installations 
-- Install Python 3.7.6 -> It works well with OPENCV
-- Install PyCharm -> A free comfortable IDE
-
-## Packages to install
-- opencv-python --> This is the OPENCV Package 
-- numpy --> Used in arrays to analyse the images
-
-## Imported as 
-- import cv2
-- import numpy as np
+# Thanks to <a href = "https://www.youtube.com/watch?v=WQeoO7MI0Bs&list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H&index=1"> Murtaza's Workshop - Robotics and AI </a>
